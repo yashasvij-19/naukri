@@ -1,0 +1,46 @@
+{
+  "savedJobs": [
+    {
+      "id": 1218607,
+      "title": "Experienced Unity Developer",
+      "company": "Mibo",
+      "location": "European Timezones",
+      "salary": "€45k - €70k"
+    },
+    {
+      "id": 1207672,
+      "title": "Frontend Engineer",
+      "company": "Zapier ",
+      "location": "Worldwide",
+      "salary": ""
+    },
+    {
+      "id": 1284464,
+      "title": "Senior/Lead QA Engineer",
+      "company": "yoldacom",
+      "location": "Turkey",
+      "salary": ""
+    },
+    {
+      "id": 971825,
+      "title": "Senior Front-End Engineer (JS/Graphics/3D)",
+      "company": "Spline",
+      "location": "Worldwide",
+      "salary": ""
+    },
+    {
+      "id": 1274446,
+      "title": "Founding Fullstack Engineer",
+      "company": "Hirefly",
+      "location": "USA Only",
+      "salary": ""
+    },
+    {
+      "id": 1289411,
+      "title": "Frontend Engineer",
+      "company": "xDesign",
+      "location": "UK",
+      "salary": ""
+    }
+  ]
+}
